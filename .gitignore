@@ -24,3 +24,6 @@ CourseProject1/
 LectureData/
 Quiz*.R
 script.R
+
+*.rds
+*.zip
